@@ -60,8 +60,8 @@
 ### 📊 GitHub Stats & More
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MBilal8136&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBilal8136&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=devxmbilal&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxmbilal&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -70,5 +70,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/devxbilal/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:mbilal75362@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/MBilal8136"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://github.com/devxmbilal"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
 </p>
